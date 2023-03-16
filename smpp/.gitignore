@@ -1,0 +1,15 @@
+venv
+.idea
+.vscode/**
+.env
+**/__pycache__/**
+**/*.swp
+
+static
+media
+cleverstack_communication/settings/local.py
+**/**/local.py
+.DS_Store
+env
+dump.rdb
+.venv
